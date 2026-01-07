@@ -57,7 +57,7 @@ This project predicts customer churn for a telecom company using machine learnin
 ## 📊 Visualizations
 - Feature importance bar chart
 - Confusion matrix heatmap
-
+- Precision-Recall curve for threshold tuning
 
 ---
 
